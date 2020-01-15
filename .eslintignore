@@ -1,0 +1,4 @@
+client/dist
+**/*.js
+public
+config

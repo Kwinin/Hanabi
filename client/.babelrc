@@ -1,0 +1,13 @@
+{
+  "plugins": ["@babel/transform-runtime"],
+  "ignore": [
+    "node_modules"
+  ],
+  "presets": [
+    ["@babel/env", {
+      "targets": {
+        "browsers": ["last 2 versions", "ie >= 9"]
+      }
+    }]
+  ]
+}
