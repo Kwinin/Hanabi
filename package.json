@@ -38,7 +38,7 @@
     "express-session": "^1.15.6",
     "express-simple-route": "^1.6.3",
     "express-validator": "^6.1.1",
-    "grpc": "^1.24.2",
+    "grpc": "^1.24.9",
     "http-errors": "^1.7.1",
     "ioredis": "^4.14.1",
     "loud-rejection": "^2.0.0",
